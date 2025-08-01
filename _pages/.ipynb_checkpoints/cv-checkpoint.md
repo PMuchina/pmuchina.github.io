@@ -11,37 +11,37 @@ redirect_from:
 
 Education
 ======
-PhD in Molecular Biology and Bioinformatics
+### PhD in Molecular Biology and Bioinformatics
 *	Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya
 *	June 2022 – December 2025.
 *	Thesis: Unravelling Genetic Diversity and Population Structure of Black Soldier Fly (Hermetia illucens) in Kenya and Uganda.
-Visiting PhD Student
+### Visiting PhD Student
 *	Center for Quantitative Genetics and Genomics (QGG), Aarhus University, Denmark 
 *	March 2024 – February 2025.
-MSc in Bioinformatics
+### MSc in Bioinformatics
 *	Pwani University, Kenya 
 *	September 2019 – October 2022
 *	Thesis: Parallelizing Long-Read De Novo Assembly on Mixed Architectures (CPU/GPU) using CUDA.
-BSc in Biochemistry and Molecular Biology
+### BSc in Biochemistry and Molecular Biology
 *	South Eastern Kenya University, Kenya 
 *	January 2014 – December 2018
 *	Attained Second Class Honors (Upper Division). 
 
 Work experience
 ======
-PhD Researcher, ICIPE, JKUAT & Aarhus University: June 2022 – Present
+### PhD Researcher, ICIPE, JKUAT & Aarhus University: June 2022 – Present
 Roles and Responsibilities 
 *	Designed and conducted whole-genome population genomics analyses in H. illucens.
 *	Applied statistical tools to study population structure.
 *	Developed reproducible bioinformatics workflows using R, Python, and shell scripting.
-*	Adjunct Lecturer, Dept. of Biochemistry – JKUAT - Jan 2023 – Present
+### Adjunct Lecturer, Dept. of Biochemistry – JKUAT - Jan 2023 – Present
 *	Taught undergraduate courses in molecular biology.
 *	Mentored students in bioinformatics workflows and data analysis projects.
-Research Assistant, ICIPE: May 2018 - September 2019
+### Research Assistant, ICIPE: May 2018 - September 2019
 Roles and Responsibilities
 *	Performed molecular analysis on insect samples.
 *	Contributed to data collection design and sample processing workflows.
-Internship, National Public Health Laboratory: June 2017 - Sept 2017
+### Internship, National Public Health Laboratory: June 2017 - Sept 2017
 Roles and Responsibilities 
 *	Carried out molecular diagnostics, AST, and bacteriological testing of food/water samples.
 
