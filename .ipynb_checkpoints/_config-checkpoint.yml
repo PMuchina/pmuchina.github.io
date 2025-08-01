@@ -22,7 +22,7 @@ remote_theme: "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "https://qgg.au.dk/fileadmin/_processed_/d/d/csm_2_Photo_Peter_Kimani_Muchina_d5522e3429.jpg"
   name             : "PMuchina"
   pronouns         : # example: "she/her"  
   bio              : "I am a bioinformatician passionate about leveraging genomics and programming to solve complex biological problems"
