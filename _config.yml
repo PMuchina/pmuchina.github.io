@@ -22,7 +22,7 @@ remote_theme: "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://pure.au.dk/portal/files-asset/373670917/IMG_20240328_095215_901%281%29.jpg?w=160&f=webp"
+  avatar           : "/images/profile.png"
   name             : "PMuchina"
   pronouns         : # example: "she/her"  
   bio              : "I am a bioinformatician passionate about leveraging genomics and programming to solve complex biological problems"
