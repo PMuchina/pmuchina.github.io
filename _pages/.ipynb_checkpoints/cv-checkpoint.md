@@ -21,7 +21,7 @@ Education
 ### MSc in Bioinformatics
 *	Pwani University, Kenya 
 *	September 2019 – October 2022
-*	Thesis: Parallelizing Long-Read De Novo Assembly on Mixed Architectures (CPU/GPU) using CUDA.
+*	[Thesis: Parallelizing Long-Read De Novo Assembly on Mixed Architectures (CPU/GPU) using CUDA.](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://elibrary.pu.ac.ke/handle/123456789/1006&ved=2ahUKEwjehqvB1OmOAxX28LsIHfdUIusQFnoECBcQAQ&usg=AOvVaw1fjyklKDRaxVglGiYpZdA9)
 ### BSc in Biochemistry and Molecular Biology
 *	South Eastern Kenya University, Kenya 
 *	January 2014 – December 2018
