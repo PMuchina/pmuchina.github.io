@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 ### PhD in Molecular Biology and Bioinformatics
 *	Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya
 *	June 2022 – December 2025.
@@ -24,11 +25,12 @@ Education
 *	[Thesis: Parallelizing Long-Read De Novo Assembly on Mixed Architectures (CPU/GPU) using CUDA.](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://elibrary.pu.ac.ke/handle/123456789/1006&ved=2ahUKEwjehqvB1OmOAxX28LsIHfdUIusQFnoECBcQAQ&usg=AOvVaw1fjyklKDRaxVglGiYpZdA9)
 ### BSc in Biochemistry and Molecular Biology
 *	South Eastern Kenya University, Kenya 
-*	January 2014 – December 2018
+*	January 2014 – December 2017
 *	Attained Second Class Honors (Upper Division). 
 
 Work experience
 ======
+
 ### PhD Researcher, ICIPE, JKUAT & Aarhus University: June 2022 – Present
 Roles and Responsibilities 
 *	Designed and conducted whole-genome population genomics analyses in H. illucens.
